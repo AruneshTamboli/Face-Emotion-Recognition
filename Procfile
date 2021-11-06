@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Rohitapp.py
+web: sh setup.sh && streamlit run aruneshapp.py
